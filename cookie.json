@@ -1,7 +1,7 @@
 [
     {
         "domain": ".mtcgame.com",
-        "expirationDate": 1780271020.071577,
+        "expirationDate": 1780399449.148965,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -15,7 +15,7 @@
     },
     {
         "domain": ".mtcgame.com",
-        "expirationDate": 1780271034.767992,
+        "expirationDate": 1780399581.17623,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_FJLWXD1GVY",
@@ -24,7 +24,7 @@
         "secure": false,
         "session": false,
         "storeId": "0",
-        "value": "GS1.1.1745711020.6.1.1745711034.46.0.0",
+        "value": "GS1.1.1745839449.9.1.1745839581.19.0.0",
         "id": 2
     },
     {
@@ -38,7 +38,7 @@
         "secure": false,
         "session": false,
         "storeId": "0",
-        "value": "1.1.675421436.1745433711.47595988.1745711029.1745711029",
+        "value": "1.1.675421436.1745433711.831724138.1745839458.1745839457",
         "id": 3
     },
     {
@@ -71,7 +71,7 @@
     },
     {
         "domain": "www.mtcgame.com",
-        "expirationDate": 1745711912.335638,
+        "expirationDate": 1745840316.79504,
         "hostOnly": true,
         "httpOnly": false,
         "name": "refererTo",
@@ -85,7 +85,7 @@
     },
     {
         "domain": "www.mtcgame.com",
-        "expirationDate": 1745711932.893387,
+        "expirationDate": 1745840365.614005,
         "hostOnly": true,
         "httpOnly": false,
         "name": "token",
@@ -94,7 +94,7 @@
         "secure": false,
         "session": false,
         "storeId": "0",
-        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Ijc1MjU2NjEiLCJyb2xlIjoidXNlciIsIkZpbmFuY2lhbFR5cGVJZCI6IjEiLCJDdXJyZW5jeUlkIjoiMiIsIlVzZXJOYW1lIjoibGlseWNvbmxpbnMgIiwiRW1haWwiOiJsaWx5Y29ubGluczk4NTE5QGdtYWlsLmNvbSIsIm5iZiI6MTc0NTcxMTAzMiwiZXhwIjoxNzQ1NzEyODMyLCJpYXQiOjE3NDU3MTEwMzIsImlzcyI6Im10Yy50ZW5zaGkuaWRlbnR5IiwiYXVkIjoidGVuc2hpLmFwaS4qIn0.arqqaxM8USgllBln9z443ZAliNgtVTEGhcupmKGPC5U",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Ijc1MjU2NjEiLCJyb2xlIjoidXNlciIsIkZpbmFuY2lhbFR5cGVJZCI6IjEiLCJDdXJyZW5jeUlkIjoiMiIsIlVzZXJOYW1lIjoibGlseWNvbmxpbnMgIiwiRW1haWwiOiJsaWx5Y29ubGluczk4NTE5QGdtYWlsLmNvbSIsIm5iZiI6MTc0NTgzOTQ2NCwiZXhwIjoxNzQ1ODQxMjY0LCJpYXQiOjE3NDU4Mzk0NjQsImlzcyI6Im10Yy50ZW5zaGkuaWRlbnR5IiwiYXVkIjoidGVuc2hpLmFwaS4qIn0.Jpx-lJF6X0Dlm61XU62UN5iPyZ4Y574bAvsYd00gXdk",
         "id": 7
     }
 ]
